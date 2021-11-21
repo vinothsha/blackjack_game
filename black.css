@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUOr07g8cOX2RDvo4kdECjGs6UFR9GurDB0tFKdrUH1ElxgwPqxrIV4lvVtrGO4WRYzA&usqp=CAU);
+    background-size: cover;
+}
+#heading{
+    color:goldenrod;  
+}
+#want{
+    text-decoration: overline aqua;
+    text-decoration-thickness: 20%;
+    text-decoration-style: dashed;
+    font-style:italic;
+    font-size:30pt
+}
+#card-el,#sum-el{
+    text-transform:uppercase;
+}
+#btn{
+    width: 22%;
+    margin-block-end:0.3ch ;
+    color:lightcoral;
+    font-size:large;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:800;
+}
+
+
+
+
+
+
